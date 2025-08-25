@@ -21,3 +21,14 @@ Welcome to my portfolio, where I showcase my [projects](https://google.com/).
 
 - [Linkedin](https://www.linkedin.com/in/rahul8200/)
 - Hire me
+
+<details>
+  <summary>📌 Click to expand</summary>
+
+Here is the hidden content!  
+You can put text, **Markdown formatting**, code blocks, or even images inside.
+
+```python
+print("Hello from inside the accordion!")
+```
+</details>
